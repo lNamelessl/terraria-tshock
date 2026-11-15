@@ -1,4 +1,0 @@
-query {
-  t: __type(name: "TCPProxy") { fields { name type { name kind ofType { name kind } } } }
-  m: __schema { mutationType { fields { name args { name type { name kind ofType { name kind } } } } } }
-}
