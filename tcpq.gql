@@ -1,0 +1,3 @@
+query($env: String!, $svc: String!) {
+  tcpProxies(environmentId: $env, serviceId: $svc) { id domain proxyPort applicationPort }
+}

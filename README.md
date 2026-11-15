@@ -4,7 +4,7 @@ Terraria dedicated server with the TShock management layer (permissions, account
 
 Official image, digest-pinned: `ghcr.io/pryaxis/tshock:6.2.1` (index `sha256:70e59a8e6b4c79b5fad469d320962c1fc98625ed3a955510a2f2641dbff2f7e7`), which bundles **Terraria 1.4.5.8** — connecting clients must match that game version.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/new?github_url=https://github.com/lNamelessl/terraria-tshock)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/terraria-tshock)
 
 ## How it works
 

@@ -1,0 +1,1 @@
+query($code: String!) { template(code: $code) { id code name isApproved serializedConfig } }

@@ -1,0 +1,14 @@
+{
+  "proxies": [
+    {
+      "id": "8a39e5d8-6bee-4ee1-b5bb-5e54dbb26117",
+      "domain": "hayabusa.proxy.rlwy.net",
+      "proxyPort": 38833,
+      "applicationPort": 7777,
+      "endpoint": "hayabusa.proxy.rlwy.net:38833",
+      "syncStatus": "ACTIVE",
+      "createdAt": "2026-11-15T15:45:43.572+00:00",
+      "updatedAt": "2026-11-15T15:45:44.120+00:00"
+    }
+  ]
+}

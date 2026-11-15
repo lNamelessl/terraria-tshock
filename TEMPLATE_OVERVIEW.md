@@ -1,6 +1,6 @@
 A Terraria dedicated server with the TShock management layer, packaged for Railway: the official Pryaxis Docker image, digest-pinned, with permissions, chat, anti-grief, and a built-in REST API — one service, one volume, zero deploy questions.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.app/new?github_url=https://github.com/lNamelessl/terraria-tshock)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/terraria-tshock)
 
 ## What you get
 

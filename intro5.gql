@@ -1,0 +1,1 @@
+query { __schema { mutationType { fields { name args { name defaultValue type { name kind ofType { name kind ofType { name kind } } } } } } } }

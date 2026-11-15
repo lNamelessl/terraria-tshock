@@ -1,0 +1,5 @@
+query {
+  a: __type(name: "TcpProxy") { name kind fields { name } }
+  b: __type(name: "TCPProxy") { name kind }
+  c: __schema { queryType { fields { name } } }
+}

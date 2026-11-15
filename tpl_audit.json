@@ -1,0 +1,40 @@
+{
+  "data": {
+    "template": {
+      "code": "DIAZ4w",
+      "id": "1f2d00f4-bbef-4620-abbb-5c8687786bca",
+      "isApproved": false,
+      "name": "terraria-tshock",
+      "serializedConfig": {
+        "buckets": {},
+        "services": {
+          "472888f8-f040-4f81-a441-aba42a2843af": {
+            "deploy": {
+              "healthcheckPath": null,
+              "restartPolicyMaxRetries": 10,
+              "restartPolicyType": "ON_FAILURE",
+              "startCommand": null
+            },
+            "icon": null,
+            "name": "terraria",
+            "networking": {
+              "tcpProxies": {
+                "7777": {}
+              }
+            },
+            "source": {
+              "repo": "https://github.com/lNamelessl/terraria-tshock",
+              "rootDirectory": null
+            },
+            "variables": {},
+            "volumeMounts": {
+              "472888f8-f040-4f81-a441-aba42a2843af": {
+                "mountPath": "/data"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
